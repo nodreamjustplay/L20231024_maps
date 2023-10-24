@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-	cout << "Hellod world" << endl;
+	cout << "second push" << endl;
 
 
 	return 0;
